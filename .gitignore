@@ -10,3 +10,4 @@ home-assistant.log
 .cloud/*
 .uuid
 secrets.yaml
+updatehass-dev.sh
