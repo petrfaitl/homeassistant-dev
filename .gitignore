@@ -1,0 +1,11 @@
+home-assistant_v2.db
+home-assistant.log
+.storage/auth
+.storage/auth_provider.homeassistant
+.storage/onboarding
+.storage/core.config_entries
+.storage/core.entity_registry
+.storage/core.restore_state
+.storage/hassio
+.cloud/*
+.uuid

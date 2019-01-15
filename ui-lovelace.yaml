@@ -1,0 +1,10 @@
+title: Home
+views:
+  - title: Home
+    icon: mdi:home
+    cards:
+      - type: entities
+        title: Lights
+        show_header_toggle: false
+        entities:
+          -  light.cuisine_light
