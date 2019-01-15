@@ -9,3 +9,4 @@ home-assistant.log
 .storage/hassio
 .cloud/*
 .uuid
+secrets.yaml
